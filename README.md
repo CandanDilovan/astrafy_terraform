@@ -95,3 +95,4 @@ creates the state bucket once, and every other stack uses
 - Workload Identity Federation instead of a service account key for GitHub
   Actions (no long-lived secret).
 # astrafy_terraform
+# astrafy_terraform
